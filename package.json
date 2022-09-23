@@ -1,0 +1,20 @@
+{
+  "name": "marketing-agency2022",
+  "version": "1.0.0",
+  "description": "marketing-agency website using bootstrap 5.2 with sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"sass --watch scss:assests/css"
+  },
+  "author": "afnan developer",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.54.4"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.2",
+    "autoprefixer": "^10.4.8",
+    "bootstrap": "^5.2.0",
+    "postcss-cli": "^10.0.0"
+  }
+}

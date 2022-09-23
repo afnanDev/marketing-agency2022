@@ -1,0 +1,10 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+$primary: #222429;
+$secondary: #ffaa17;
+
+.navbar{
+    .navbar-brand span{
+        color: $secondary;
+    }
+}
